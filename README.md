@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=KO%20HYE%20JIN)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=KO%20HYE%20JIN&textBg=false&fontAlignY=40)
 <!--
 **jindamgom/jindamgom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
