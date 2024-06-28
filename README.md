@@ -17,8 +17,11 @@
   <h2>💻skill💻</h2>
   <br>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HTML-F7DF1E?style=flat-square&logo=#F7DF1E&logoColor=white"/>
- 
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-FF3300?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+ <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
    <hr style="width: 50%; height: 1px; background-color: rgba(85, 85, 85, 0.5); border: none;">
     <a href="https://github.com/jindamgom/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=jindamgom" alt="Anurag's GitHub stats" />
