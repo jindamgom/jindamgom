@@ -22,6 +22,9 @@
 <img src="https://img.shields.io/badge/Java-FF3300?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+
+    
    <hr style="width: 50%; height: 1px; background-color: rgba(85, 85, 85, 0.5); border: none;">
     <a href="https://github.com/jindamgom/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=jindamgom" alt="Anurag's GitHub stats" />
