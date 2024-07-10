@@ -9,7 +9,13 @@
     <br><br>
       <a href="https://lifeisgoguma.tistory.com/">
    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+         
   </a>
+   <a href="https://jindamgom.github.io/portfolio/">
+   <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logoColor=white"/>
+         
+  </a>
+   
      <br><br>
   <h2>💻Tech Stack💻</h2>
   <br>
