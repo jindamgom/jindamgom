@@ -11,7 +11,7 @@
    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
          
   </a>
-   <a href="jindamgom.github.io/portfolio">
+   <a href="https://jindamgom.github.io/portfolio">
    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logoColor=white"/>
          
   </a>
